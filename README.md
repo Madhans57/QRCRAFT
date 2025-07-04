@@ -19,11 +19,9 @@ A sleek, modern QR Code generator built with **React** and **QRious**. Generate 
 
 ---
 
-## 📸 Demo
+## 📸 Live Demo
 
-> (You can add your Netlify link here after deployment)
-
-**Live:** [https://your-site.netlify.app](https://your-site.netlify.app)
+🌐 **Live Site**: [https://qrcraft57.netlify.app](https://qrcraft57.netlify.app)
 
 ---
 
